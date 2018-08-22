@@ -4,6 +4,8 @@
 **UMET - CITRA - CONICET**    
 **Sarmiento 2037, Buenos Aires, Argentina**
 
+*[English version](https://github.com/thessaly/openconlatam2018/blob/master/README_en.md)*
+
 [OpenCon](https://www.opencon2018.org) es la conferencia internacional sobre acceso abierto al conocimiento científico y académico, educación abierta y datos abiertos, dirigida especialmente a estudiantes y a quienes están en sus primeros años de carrera profesional académica. Es un evento organizado por [Right to Research Coalition](http://righttoresearch.org/), [SPARC](https://sparcopen.org) (The Scholarly Publishing and Academic Resources Coalition) y un comité de organización integrado por estudiantes y profesionales académicos jóvenes de diversas partes del mundo.
 
 [OpenCon LatAm](https://www.opencon2018.org/opencon_2018_latam) es uno de los más de 25 eventos satélite de la conferencia global, en el que se abordan las problemáticas y retos regionales en el acceso abierto, educación abierta y datos abiertos. El año pasado tuvo su primera edición en Ciudad de México y este año se llevará adelante en Buenos Aires, Argentina.
