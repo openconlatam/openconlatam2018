@@ -12,7 +12,7 @@
 
 ## Necesitamos tu ayuda para que OpenCon LatAm 2018 sea posible.
 
-![paypal_logo](paypal.png)
+[![paypal_logo](paypal.png)](https://www.paypal.me/openconlatam)
 
 Este evento es posible gracias al aporte de instituciones y personas que valoran los beneficios de formar a la próxima generación de investigadores y profesionales de la educación dentro de la cultura abierta. 
 
