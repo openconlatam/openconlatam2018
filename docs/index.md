@@ -1,6 +1,6 @@
-*[Spanish version](español.md)*
-
 ![openconlatam_logo](opencon.jpg)
+
+*[Spanish version](español.md)*
 
 [OpenCon](https://www.opencon2018.org) is the international conference on open access to scientific and academic knowledge, open education and open data organised by the [Right to Research Coalition](http://righttoresearch.org/), [SPARC](https://sparcopen.org) (The Scholarly Publishing and Academic Resources Coalition) and young academic professionals from different parts of the world.
 
